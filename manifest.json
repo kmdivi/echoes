@@ -1,0 +1,13 @@
+{
+  "name": "Echoes ACT 1",
+  "description": "Copy page title and url",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "icons": {
+    "128": "/images/icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
